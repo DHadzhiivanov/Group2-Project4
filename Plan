@@ -1,0 +1,20 @@
+Project: Brew buddy
+1. Prerequisites
+
+Hosting: Virtual machine with ubuntu server
+Backend: Node.js
+Stack: ???
+Database: MySQL
+Frontend design: Figma
+Frontend: HTML, Tailwindcss
+
+2. Requirements:
+
+3. Roles:
+David - Hosting, protocols, VM, Database
+Vasco - Frontend design (css, figma)
+Tristan - Backend node.js
+Jacub - Research
+Abdullah and Rafael - Documentation ( it is to be discussed with everyone )
+4. Analysis
+Track the amount of beers per week, month by scanning a barcode.
